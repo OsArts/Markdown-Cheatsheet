@@ -44,4 +44,5 @@
 
 **6. Страницы с описанием**
 1-ая страница "поиск объявления"
+
 ![alt-текст](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1.jpg "Текст заголовка логотипа 1")
