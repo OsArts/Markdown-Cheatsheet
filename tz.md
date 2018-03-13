@@ -43,6 +43,6 @@
 регион | строка | необязательно | список регионов РФ
 
 **6. Страницы с описанием**
-1-ая страница "поиск объявления"
-
-![alt-текст](https://github.com/aerom/Markdown-Cheatsheet/blob/master/1.jpg?raw=true "Текст заголовка логотипа 1")
+| 1-ая страница "поиск объявления"| 2-ая страница "подписки на объявления"
+--- | --- |
+|![alt-текст](https://github.com/aerom/Markdown-Cheatsheet/blob/master/1.jpg?raw=true "Текст заголовка логотипа 1")| ![alt-текст](https://github.com/aerom/Markdown-Cheatsheet/blob/master/2.jpg?raw=true "Текст заголовка логотипа 1")
