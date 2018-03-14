@@ -55,5 +55,10 @@
 
 | 3-ая страница "поиск объявления"| 4-ая страница "подписки на объявления"|
 -------------- | ------------- |
-|![поиск](https://github.com/aerom/Markdown-Cheatsheet/blob/master/3.jpg?raw=true "Текст заголовка логотипа 1")| ![подписки](https://github.com/aerom/Markdown-Cheatsheet/blob/master/4.jpg?raw=true "Текст заголовка логотипа 1")
+|![поиск](https://github.com/aerom/Markdown-Cheatsheet/blob/master/4.jpg?raw=true "Текст заголовка логотипа 1")| ![подписки](https://github.com/aerom/Markdown-Cheatsheet/blob/master/5.jpg?raw=true "Текст заголовка логотипа 1")
 |меню добавления обьявлений в атоматическом режиме по фото и в ручную|должена быть реализованна переписка с владельцами обьявлений
+
+| 5-ая страница "поиск объявления"| |
+-------------- | ------------- |
+|![поиск](https://github.com/aerom/Markdown-Cheatsheet/blob/master/6.jpg?raw=true "Текст заголовка логотипа 1")|
+|меню профиля пользователя, с контактной информацией и объявлениями пользователя|.
